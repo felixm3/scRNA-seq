@@ -1,4 +1,4 @@
-# scRNA-seq
+# Analysis of scRNA-seq data comparing non-small-cell lung cancer (NSCLC) cells to normal cells
 
 *You may need to refresh a couple of times if you see the message "Unable to render code block" when loading the (pdf of the) Jupyter notebook above*
 
