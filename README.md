@@ -2,8 +2,8 @@
 
 *You may need to refresh a couple of times if you see the message "Unable to render code block" when loading the (pdf of the) Jupyter notebook above*
 
-I wrote these R scripts to analyze a large, single-cell RNA sequencing (scRNA-seq) dataset (~900,000 cells) using R and various Bioconductor bioinformatics packages. The dataset is 
-
+I wrote these R scripts to analyze a large, single-cell RNA sequencing (scRNA-seq) dataset (~900,000 cells) using R and various Bioconductor bioinformatics packages. 
+ 
 ### Overall Functionality:
 The scripts accomplish the following tasks:
 1. Load necessary R packages for analysis (Seurat, DESeq2, pheatmap, ggplot2, etc.).
@@ -28,3 +28,6 @@ The scripts accomplish the following tasks:
 - Intermediate data files for normalization, clustering, and differential expression analysis.
 - Visualizations (UMAP plots, volcano plots) highlighting various aspects of the data.
 
+[The dataset](https://www.10xgenomics.com/resources/datasets/aggregate-of-900k-human-non-small-cell-lung-cancer-and-normal-adjacent-cells-multiplexed-samples-16-probe-barcodes-1-standard)
+ is from 10X Genomics. 
+ 
